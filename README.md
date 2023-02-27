@@ -1,2 +1,2 @@
-# neural-network-miet
-нейроные сети 
+# colabs
+all colabs projects 
